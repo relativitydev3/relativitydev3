@@ -58,19 +58,20 @@
 
 
 
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs </h2> 
+<h2 align="center">Lenguajes</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,git,go,idea,jquery,kotlin,laravel,linux,mongodb,mysql,php,tensorflow,py)](https://skillicons.dev)
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,go,kotlin,php,py)](https://skillicons.dev)
+
 </div>
+
 <br />
 
-
- <h2 align="center">tecnología </h2> 
+<h2 align="center">Tecnologías</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=clion,eclipse,git,github,idea,linkedin,linux,mongodb,sublime,tensorflow,ubuntu,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,gitlab,linux,mongodb,mysql,postgres,laravel,tensorflow,flutter,react,vue,cypress,django,electron,vite,visualstudio,vscode,idea,eclipse,sublime,ubuntu,visualstudio)](https://skillicons.dev)
+
 </div>
 <br />
 
