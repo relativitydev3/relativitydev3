@@ -70,7 +70,7 @@
 <h2 align="center">Technologies</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,gitlab,linux,mongodb,mysql,postgres,laravel,tensorflow,flutter,react,vue,cypress,django,electron,vite,visualstudio,vscode,idea,eclipse,sublime,ubuntu,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,laravel,flutter,react,vue,django,electron,nodejs,vite,git,github,gitlab,linux,ubuntu,mongodb,mysql,postgres,tensorflow,cypress,visualstudio,vscode,idea,eclipse,sublime,visualstudio,sublime,wordpress)](https://skillicons.dev)
 
 </div>
 <br />
