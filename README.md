@@ -58,7 +58,7 @@
 
 
 
-<h2 align="center">Lenguajes</h2>
+<h2 align="center">Languages</h2>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,go,kotlin,php,py)](https://skillicons.dev)
@@ -67,7 +67,7 @@
 
 <br />
 
-<h2 align="center">Tecnologías</h2>
+<h2 align="center">Technologies</h2>
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,gitlab,linux,mongodb,mysql,postgres,laravel,tensorflow,flutter,react,vue,cypress,django,electron,vite,visualstudio,vscode,idea,eclipse,sublime,ubuntu,visualstudio)](https://skillicons.dev)
