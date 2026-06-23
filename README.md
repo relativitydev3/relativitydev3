@@ -16,14 +16,15 @@
 
 <br><br>
 
-- :school: I am a `Junior` at Faculty of sena
-<!-- - :trophy: 2x `ACPC` Finalist. -->
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer 
-- :student: I’m currently learning `development` and `hacking`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [linkedin](https://www.linkedin.com/in/johan-rojas-63b9aa2a9/).
-<!-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website). -->
+- 💼 I am a `Semi Senior Software Developer`.
+- 🎓 Software Development and Cybersecurity enthusiast.
+- 🚀 Passionate about building scalable applications, automation solutions, and digital products.
+- 💻 Experienced in Full Stack Development, APIs, Microservices, and Database Design.
+- 🔐 Interested in Cybersecurity, Ethical Hacking, and Secure Software Development.
+- 📚 Always learning new technologies and improving my skills.
+- 🤝 Open to new professional opportunities and collaborations.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/johan-rojas-63b9aa2a9/).
+
 <br>
 
 <!--
